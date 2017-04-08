@@ -10,7 +10,7 @@ class Home extends React.Component {
     return (
       <div>
         {/**/}
-        <h1>Hello <a href={"https://github.com/electrode-io"}>{"Electrode"}</a></h1>
+        <h1>Hello! <a href={"https://github.com/electrode-io"}>{"Electrode"}</a></h1>
         <div>
           <h2>Managing States with Redux</h2>
           <label>
