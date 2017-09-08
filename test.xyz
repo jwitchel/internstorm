@@ -3,3 +3,4 @@ initial commit.
 added *.xyz to exclude file and committed.
 Now I'm updating it with the *.xyz in place.  It should ignore the commit.  But will it re-run the old commits?  I doubt it.
 edit 2
+edit 3
