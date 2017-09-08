@@ -2,3 +2,4 @@ This is a test of ignoring files in GitPrime.  Anyone working on internstorm can
 initial commit.
 added *.xyz to exclude file and committed.
 Now I'm updating it with the *.xyz in place.  It should ignore the commit.  But will it re-run the old commits?  I doubt it.
+edit 2
