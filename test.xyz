@@ -4,3 +4,4 @@ added *.xyz to exclude file and committed.
 Now I'm updating it with the *.xyz in place.  It should ignore the commit.  But will it re-run the old commits?  I doubt it.
 edit 2
 edit 3
+This is edit 4.  Should show up as a new commit and is_fresh = false
