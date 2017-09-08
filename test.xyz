@@ -5,4 +5,5 @@ Now I'm updating it with the *.xyz in place.  It should ignore the commit.  But 
 edit 2
 edit 3
 This is edit 4.  
-Edit 5 Should show up as a new commit and is_fresh = false
+Edit 5 
+Edit 6 Should show up as a new commit and is_fresh = false
